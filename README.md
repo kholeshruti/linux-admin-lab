@@ -1,4 +1,4 @@
-#Linux Admin Lab
+# Linux Admin Lab
 
 A beginner-friendly Linux project created to learn the fundamental skills required for Cloud Computing and DevOps.
 
@@ -15,8 +15,10 @@ This project demonstrates practical Linux administration skills including:
 - SSH basics
 - Bash scripting
 
+
 ## Project Structure
 
+```
 linux-admin-lab/
 │
 ├── README.md
@@ -36,7 +38,7 @@ linux-admin-lab/
     ├── access-log.png
     ├── ssh-status.png
     └── backup-script.png
-
+```
 
 ## Topics Covered
 
@@ -92,6 +94,7 @@ linux-admin-lab/
 ### 9. Bash Scripting
 Created a simple backup script that copies a file into the backups directory.
 
+
 ## Skills Learned
 - Linux command line
 - Linux administration
@@ -101,6 +104,7 @@ Created a simple backup script that copies a file into the backups directory.
 - Log analysis
 - SSH basics
 - Bash scripting
+
 
 ## Tools Used
 - Ubuntu Linux
